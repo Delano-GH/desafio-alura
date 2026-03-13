@@ -1,2 +1,2 @@
 # desafio-alura
-Desafio Alura alterado pata teste
+Desafio Alura alterado para teste
